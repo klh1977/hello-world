@@ -1,3 +1,3 @@
 # hello-world
-test repository for stuff...
-and some subsequent edits made later on 23/02 :P
+About Me:
+My name is Kate.
