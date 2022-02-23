@@ -1,2 +1,3 @@
 # hello-world
-test repository for stuff...
+About Me:
+My name is Kate.
